@@ -30,7 +30,7 @@ Photos of Tom O'Brien, his family and his life
 		</div>
 		
 		<div class="row text-center" id="download-gallery">
-			<a href="#"><span class="glyphicon glyphicon-download"></span> Download a zip of all photos</a>
+			<a href="https://drive.google.com/open?id=0B2Ht7F8m43SacmNBTURUVDdDbTg"><span class="glyphicon glyphicon-download"></span> Download a zip of all photos</a>
 		</div>
 	@else
 		<div class="row text-center">
