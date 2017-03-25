@@ -10,7 +10,6 @@ class ContactController extends Controller
 {
 	public function index()
 	{
-	//test
 		return view('contact');
 	
 	}
