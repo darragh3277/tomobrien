@@ -56,8 +56,8 @@ return [
     */
 
     'from' => [
-        'address' => env('MAIL_FROM_ADDRESS', 'hello@example.com'),
-        'name' => env('MAIL_FROM_NAME', 'Example'),
+        'address' => 'no-reply@tomobrien.ie',
+        'name' => 'no-reply',
     ],
 
     /*
@@ -106,5 +106,7 @@ return [
             resource_path('views/vendor/mail'),
         ],
     ],
+		
+	'inbox' => 'darragh3277@gmail.com'
 
 ];

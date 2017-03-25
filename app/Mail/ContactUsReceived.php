@@ -30,6 +30,6 @@ class ContactUsReceived extends Mailable
      */
     public function build()
     {
-        return $this->markdown('emails.contactUsReceived');
+        return $this->subject('Message received!')->markdown('emails.contactUsReceived');
     }
 }

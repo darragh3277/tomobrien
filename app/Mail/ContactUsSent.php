@@ -30,6 +30,6 @@ class ContactUsSent extends Mailable
      */
     public function build()
     {
-        return $this->markdown('emails.contactUsSent');
+        return $this->subject('Email sent to tomobrien.ie')->markdown('emails.contactUsSent');
     }
 }

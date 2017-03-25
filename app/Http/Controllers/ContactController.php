@@ -25,7 +25,7 @@ class ContactController extends Controller
 		]);
 		
 		\Mail::to(request('email'))->send(new ContactUsReceived(request()->all()));
-		\Mail::to(request('email'))->send(new ContactUsSent(request()->all()));
+		\Mail::to(config('mail.inbox'))->send(new ContactUsSent(request()->all()));
 		
 		return redirect('/contact')->with('message', 'Thank you for contacting us.');
 	}
