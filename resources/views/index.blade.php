@@ -44,7 +44,7 @@ Welcome to tomobrien.ie, a site dedicated to the poetry and stories of Tom O'Bri
 
 			<div class="row featured">
 				<div class="col-md-2 text-center">
-					<img class="img-circle" src="img/layout/anne.jpg" />
+					<img class="img-circle" src="img/layout/profile.png" />
 					<h3>Anne</h3>
 				</div>
 				<div class="col-md-10">
@@ -71,8 +71,8 @@ Welcome to tomobrien.ie, a site dedicated to the poetry and stories of Tom O'Bri
 					</p>
 				</div>
 				<div class="col-md-2 text-center">
-					<img class="img-circle" src="img/layout/profile.png" />
-					<h3>Joyce</h3>
+					<img class="img-circle" src="img/layout/anne.jpg" />
+					<h3>Anne</h3>
 				</div>
 			</div>
 			

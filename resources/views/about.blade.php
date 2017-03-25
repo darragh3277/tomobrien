@@ -37,7 +37,7 @@ Biography of the late Tom O'Brien
 				Limerick. In 1949 Tom married Maureen Dineen from Henry Street,
 				Limerick. They set up home in Fort Mary Park, North Circular Road,
 				Limerick and had a family of three daughters Joyce (O Callaghan),
-				Anne (O'Broin) and Michele (Dundon) and one son Tom.</p>
+				Anne (O'Broin) and Michelle (Dundon) and one son Tom.</p>
 			<p>In 1975 Tom and Maureen opened a newsagents, 'Ninety Six' at 96,
 				Lower Henry Street. Together they ran the shop until their
 				retirement in 1998. Tom and Maureen remained devoted to each other

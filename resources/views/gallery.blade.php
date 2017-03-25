@@ -15,7 +15,7 @@ Photos of Tom O'Brien, his family and his life
 @section('content')
 <div class="container">
 
-	@if (count($images) > 0)
+	@if (count($images) > 0)	
 		<div class="row col-xs image-gallery">
 			<div id="gallery-counter">1/{{count($images)}}</div>
 			<a href="/img/gallery/{{$images[0]->filename}}" target="_blank">
@@ -27,6 +27,10 @@ Photos of Tom O'Brien, his family and his life
 		<div class="row col-xs">
 			<button type="button" class="btn btn-default" id="prev-image">Previous</button>
 			<button type="button" class="btn btn-default pull-right" id="next-image">Next</button>
+		</div>
+		
+		<div class="row text-center" id="download-gallery">
+			<a href="#"><span class="glyphicon glyphicon-download"></span> Download a zip of all photos</a>
 		</div>
 	@else
 		<div class="row text-center">
