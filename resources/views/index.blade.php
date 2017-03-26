@@ -45,7 +45,7 @@ Welcome to tomobrien.ie, a site dedicated to the poetry and stories of Tom O'Bri
 			<div class="row featured">
 				<div class="col-md-2 text-center">
 					<img class="img-circle" src="img/layout/profile.png" />
-					<h3>Anne</h3>
+					<h3>Joyce</h3>
 				</div>
 				<div class="col-md-10">
 					<p>"Duis volutpat quis ante in tempor. Duis sed vehicula erat, at
