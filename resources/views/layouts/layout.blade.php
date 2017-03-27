@@ -18,7 +18,7 @@
     <link href="/css/clean-blog.css" rel="stylesheet">
     
     <!-- Favicon -->
-    <link rel="shortcut icon" href="/img/favicon.ico">
+    <link rel="shortcut icon" href="/img/layout/favicon.ico">
 
     <!-- Custom Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>

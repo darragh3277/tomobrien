@@ -15,7 +15,7 @@ Welcome to tomobrien.ie, a site dedicated to the poetry and stories of Tom O'Bri
 @section('header')
 <!-- Page Header -->
 <!-- Set your background image for this header on the line below. -->
-<header class="intro-header" style="background-image: url('/img/layout/home-bg.jpg')"></header>
+<header class="intro-header"></header>
 @endsection
 
 @section('content')
