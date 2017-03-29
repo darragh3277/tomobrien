@@ -107,6 +107,8 @@ return [
         ],
     ],
 		
-	'inbox' => 'darragh3277@gmail.com'
+	'inbox' => 'tomobrienpoetry@gmail.com',
+	
+	'cc' => 'darragh3277@gmail.com'
 
 ];
