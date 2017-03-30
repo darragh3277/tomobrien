@@ -27,14 +27,13 @@ Welcome to tomobrien.ie, a site dedicated to the poetry and stories of Tom O'Bri
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 			<h1 class="text-center">Thomas C. O'Brien</h1>
 			<p class="subnote text-center">(1919 - 2009)</p>
-			<p>This site is dedicated to the poems and songs of the late Tom
-				O'Brien. Tom was a devoted husband, father and grandfather who had a
-				passion for history, sport, poetry and song. Over many years Tom
-				wrote this collection of poetry and was delighted when his daughter
-				Anne had it published in 2002. Tom's inspiration came from everyday
-				things, including memories of his youth, his garden, his family and
-				of course Maureen his beloved wife of 60 years.
-			</p>
+			<p>This site is dedicated to the memory of the late Tom O'Brien. Tom, a 
+			devoted husband, father and grandfather, had a passion for history, 
+			sport, poetry and song. Over many years Tom wrote this collection of 
+			poetry and was delighted when his daughter Anne published them in 2002. 
+			Tom's inspiration came from everyday things - memories of his youth, 
+			his garden, his family and of course Maureen, his beloved wife of 60 
+			years.</p>
 			
 			<p>
 			Below are a few of Tom's poems selected by his children.
