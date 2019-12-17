@@ -34,7 +34,13 @@ Welcome to tomobrien.ie, a site dedicated to the poetry and stories of Tom O'Bri
 			Tom's inspiration came from everyday things - memories of his youth, 
 			his garden, his family and of course Maureen, his beloved wife of 60 
 			years.</p>
+
+			<p>Enjoy browsing the pictures, videos and poems.</p>
 			
+{{-- 			
+
+			Removed for now, will bring back if I ever manage to get them to give me snippets.
+
 			<p>
 			Below are a few of Tom's poems selected by his children.
 			</p>
@@ -109,7 +115,7 @@ Welcome to tomobrien.ie, a site dedicated to the poetry and stories of Tom O'Bri
 					<img class="img-circle" src="img/layout/michelle.jpg" />
 					<h3>Michelle</h3>
 				</div>
-			</div>
+			</div> --}}
 
 		</div>
 	</div>
