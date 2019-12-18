@@ -121,5 +121,4 @@ Welcome to tomobrien.ie, a site dedicated to the poetry and stories of Tom O'Bri
 	</div>
 </div>
 
-<hr>
 @endsection
