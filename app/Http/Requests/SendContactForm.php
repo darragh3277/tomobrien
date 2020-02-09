@@ -2,9 +2,10 @@
 
 namespace App\Http\Requests;
 
-use Illuminate\Http\Request;
+use Illuminate\Foundation\Http\FormRequest;
+use Log;
 
-class SendContactForm extends Request
+class SendContactForm extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -13,7 +14,7 @@ class SendContactForm extends Request
      */
     public function authorize()
     {
-        return false;
+        return true;
     }
 
     /**
@@ -23,6 +24,7 @@ class SendContactForm extends Request
      */
     public function rules()
     {
+        Log::debug('got to here');
         return [
             'g-recaptcha-response'=>'required|recaptcha',
             'name' => 'required',
