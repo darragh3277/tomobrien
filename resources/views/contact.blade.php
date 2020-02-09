@@ -9,7 +9,11 @@ Send an email to the admin
 @endsection
 
 @section('header-type')
-	navbar-custom-no-header
+navbar-custom-no-header
+@endsection
+
+@section('page-javascript')
+<script src='https://www.google.com/recaptcha/api.js'></script>
 @endsection
 
 @section('content')
@@ -49,6 +53,12 @@ Send an email to the admin
 					</div>
 				</div>
 				
+				<br>
+
+				<div class="g-recaptcha" 
+					data-sitekey="{{env('GOOGLE_RECAPTCHA_KEY')}}">
+				</div>
+
 				<br>
 				
 				<div class="row">
