@@ -31,3 +31,7 @@ Update .env database credentials
 ##### Generate application key
 
 `docker-compose exec app php artisan key:generate`
+
+##### Check application running in browser
+
+`localhost:8000`
