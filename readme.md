@@ -12,22 +12,22 @@ To run, clone the directory to host machine.
 
 ##### Copy .env.example file to .env
 
-cp .env.example .env
+`cp .env.example .env`
 
 Update .env database credentials
 
 ##### Build project
 
-docker-compose build app
+`docker-compose build app`
 
 ##### Run project
 
-docker-compose up -d
+`docker-compose up -d`
 
 ##### Install dependencies
 
-docker-compose exec app composer install
+`docker-compose exec app composer install`
 
 ##### Generate application key
 
-docker-compose exec app php artisan key:generate
+`docker-compose exec app php artisan key:generate`
