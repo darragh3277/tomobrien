@@ -10,19 +10,24 @@ Built using Docker and Docker-Compose.
 
 To run, clone the directory to host machine.
 
-Copy .env.example file to .env
+##### Copy .env.example file to .env
+
 cp .env.example .env
 
 Update .env database credentials
 
-Build project
+##### Build project
+
 docker-compose build app
 
-Run project
+##### Run project
+
 docker-compose up -d
 
-Install dependencies
+##### Install dependencies
+
 docker-compose exec app composer install
 
-Generate application key
+##### Generate application key
+
 docker-compose exec app php artisan key:generate
