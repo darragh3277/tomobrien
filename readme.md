@@ -16,10 +16,6 @@ To run, clone the directory to host machine.
 
 Update .env database credentials
 
-##### Build project
-
-`docker-compose build app`
-
 ##### Run project
 
 `docker-compose up -d`
